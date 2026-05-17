@@ -13,7 +13,7 @@ API для управления организационной структур�
 - **Loguru** — логирование
 
 ## Архитектура проекта
-
+```bash
 hitalent_org/
 ├── app/
 │ ├── api/
@@ -41,7 +41,7 @@ hitalent_org/
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Ключевые архитектурные решения
 
